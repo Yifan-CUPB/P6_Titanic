@@ -14,4 +14,6 @@ In this visualization, I applied these kings of features to better perform my re
 * Legend position: Duet to the situation that bar charts are same for all the categories, I moved legend to the right position.
 * Visual encodings: X-axis means various categories, while Y-axis means ratio. Survivability is classified by sequential colors, to avoid visual fatigue.
 ## Feedback
-1. Please 
+1. Please add more descriptive sentence for this data visualization, for further illustration.
+2. The color applied in charts could be more attractive. Thin shades are over-utilized.
+3. If possible, any ainimation for dunamic change (if exists) is better.
